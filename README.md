@@ -1,5 +1,5 @@
 # 程序员常用单词
-> 感谢 [@StayAndGo](https://github.com/StayAndGo)
+> 感谢 [@StayAndGo](https://github.com/StayAndGo) 老师
 
 ## day 1
 
