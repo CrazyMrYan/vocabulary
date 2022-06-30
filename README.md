@@ -1,14 +1,10 @@
 ## day 1
 
-impose 
-
-verbose
-
-invoke
-
-scalable
-
-interaction
+- impose 
+- verbose
+- invoke
+- scalable
+- interaction
 
 
 
@@ -24,13 +20,8 @@ interaction
 
 ## day 2
 
-primitive n., adj, 原始的【js primitive type原始值】
-
-implementation n. 执行 【implementation of function 函数的执行】
-
-concept n. 概念
-
-semantic adj. 语义的 【semantic versioning语义化版本控制】
-
-maintainable adj. 可维护的 【how to write maintainable code 怎么写出可维护的代码】
-
+- primitive n., adj, 原始的【js primitive type原始值】
+- implementation n. 执行 【implementation of function 函数的执行】
+- concept n. 概念
+- semantic adj. 语义的 【semantic versioning语义化版本控制】
+- maintainable adj. 可维护的 【how to write maintainable code 怎么写出可维护的代码】
