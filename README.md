@@ -1,6 +1,3 @@
-# 程序员常用单词
-> 感谢 [@StayAndGo](https://github.com/StayAndGo) 老师
-
 ## day 1
 
 - impose 
@@ -28,3 +25,18 @@
 - concept n. 概念
 - semantic adj. 语义的 【semantic versioning语义化版本控制】
 - maintainable adj. 可维护的 【how to write maintainable code 怎么写出可维护的代码】
+
+
+
+| 单词           | 音频                                                         | 翻译 |
+| -------------- | ------------------------------------------------------------ | ---- |
+| primitive      | [primitive](https://dict.youdao.com/dictvoice?audio=primitive&type=1) | -    |
+| implementation | [implementation](https://dict.youdao.com/dictvoice?audio=implementation&type=1) |      |
+| concept        | [concept](https://dict.youdao.com/dictvoice?audio=concept&type=1) |      |
+| semantic       | [semantic](https://dict.youdao.com/dictvoice?audio=semantic&type=1) |      |
+| maintainable   | [maintainable](https://dict.youdao.com/dictvoice?audio=maintainable&type=1) |      |
+
+
+
+
+
