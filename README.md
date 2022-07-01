@@ -28,15 +28,12 @@
 
 
 
-| 单词           | 音频                                                         | 翻译 |
-| -------------- | ------------------------------------------------------------ | ---- |
-| primitive      | [primitive](https://dict.youdao.com/dictvoice?audio=primitive&type=1) | -    |
-| implementation | [implementation](https://dict.youdao.com/dictvoice?audio=implementation&type=1) |      |
-| concept        | [concept](https://dict.youdao.com/dictvoice?audio=concept&type=1) |      |
-| semantic       | [semantic](https://dict.youdao.com/dictvoice?audio=semantic&type=1) |      |
-| maintainable   | [maintainable](https://dict.youdao.com/dictvoice?audio=maintainable&type=1) |      |
-
-
-
+| 单词        | 音频                                                         | 翻译           |
+| ----------- | ------------------------------------------------------------ | -------------- |
+| primitive      | [primitive](https://dict.youdao.com/dictvoice?audio=primitive&type=1) | 原始 |
+| implementation | [implementation](https://dict.youdao.com/dictvoice?audio=implementation&type=1) | 执行 |
+| concept | [concept](https://dict.youdao.com/dictvoice?audio=concept&type=1) | 概念 |
+| semantic    | [semantic](https://dict.youdao.com/dictvoice?audio=semantic&type=1) | 语义化 |
+| maintainable | [maintainable](https://dict.youdao.com/dictvoice?audio=maintainable&type=1) | 可维护的 |
 
 
