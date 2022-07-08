@@ -64,3 +64,12 @@
 
 
 
+## day 4
+
+- criteria n. 标准 
+- irrelevant adj. 不相关的，无关紧要的
+- Idempotent adj. 幂等的
+- architecture n. 建筑学，架构
+- security n. 安全
+
+
